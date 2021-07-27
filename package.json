@@ -1,0 +1,20 @@
+{
+  "name": "three.js_stacking_game",
+  "version": "1.0.0",
+  "description": "A block stacking game made with three.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "threejs",
+    "game",
+    "javascript"
+  ],
+  "author": "Alper Mehmet Özdemir",
+  "license": "ISC",
+  "dependencies": {
+    "cannon": "^0.6.2",
+    "three": "^0.130.1"
+  }
+}
